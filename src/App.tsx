@@ -1,15 +1,14 @@
 import React from 'react'
 
-import Layout from './components/Layout'
+import Home from './pages/Home'
 import GlobalStyle from './styles/GlobalStyle'
 
 function App() {
 
   return (
     <>
-      <Layout />
+      <Home />
       <GlobalStyle />
-      <h1>Hello World</h1>
     </>
   )
 }
