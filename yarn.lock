@@ -1340,6 +1340,14 @@
   resolved "https://registry.yarnpkg.com/@sheerun/mutationobserver-shim/-/mutationobserver-shim-0.3.3.tgz#5405ee8e444ed212db44e79351f0c70a582aae25"
   integrity sha512-DetpxZw1fzPD5xUBrIAoplLChO2VB8DlL5Gg+I1IR9b2wPqYIca2WSUxL5g1vLeR4MsQq1NeWriXAVffV+U1Fw==
 
+"@styled-icons/heroicons-outline@^10.4.0":
+  version "10.4.0"
+  resolved "https://registry.yarnpkg.com/@styled-icons/heroicons-outline/-/heroicons-outline-10.4.0.tgz#6e86b50a47c2f949ec933440d08cc0379e55338a"
+  integrity sha512-HpyfEdha0w9wbuaf8+NATzDRBT+7Na0oyGZZeKT+0TorhIXLl1YlnvWKmMbgC1ksao3OPM6xl10I4CZTjFnSKw==
+  dependencies:
+    "@styled-icons/styled-icon" "^10.4.0"
+    tslib "^2.0.0"
+
 "@styled-icons/material@^10.4.0":
   version "10.4.0"
   resolved "https://registry.yarnpkg.com/@styled-icons/material/-/material-10.4.0.tgz#958aa24bc82cc49ed8aaf5f062631a3448dcb332"
